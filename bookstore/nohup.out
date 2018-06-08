@@ -1,0 +1,12 @@
+[2018-06-05 20:30:07 +0800] [18340] [INFO] Starting gunicorn 19.8.1
+[2018-06-05 20:30:07 +0800] [18340] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2018-06-05 20:30:07 +0800] [18340] [ERROR] Retrying in 1 second.
+[2018-06-05 20:30:08 +0800] [18340] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2018-06-05 20:30:08 +0800] [18340] [ERROR] Retrying in 1 second.
+[2018-06-05 20:30:09 +0800] [18340] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2018-06-05 20:30:09 +0800] [18340] [ERROR] Retrying in 1 second.
+[2018-06-05 20:30:10 +0800] [18340] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2018-06-05 20:30:10 +0800] [18340] [ERROR] Retrying in 1 second.
+[2018-06-05 20:30:11 +0800] [18340] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2018-06-05 20:30:11 +0800] [18340] [ERROR] Retrying in 1 second.
+[2018-06-05 20:30:12 +0800] [18340] [ERROR] Can't connect to ('0.0.0.0', 8000)
